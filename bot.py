@@ -4,7 +4,7 @@ from aiogram import Bot, Dispatcher, executor, types
 import requests
 from bs4 import BeautifulSoup
 
-API_TOKEN = '7740237696:AAEvvjyVqwEhCUgS0Nk6zlwVCr9HNqEexbo'  # Вставь сюда свой токен бота
+API_TOKEN = '7740237696:AAEvvjyVqwEhCUgS0Nk6zWwVCr9HNqEexbo'
 
 logging.basicConfig(level=logging.INFO)
 
